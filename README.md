@@ -34,7 +34,7 @@ SAT-GNN is a lightweight deep learning framework for SAT solving that classifies
 ---
 
 ## 🚀 Project Structure
-```text
+
 SAT-GNN/
 │
 ├── data/                # CNF datasets (SATLIB)
@@ -48,5 +48,11 @@ SAT-GNN/
 
 
 ## Run
-```bash
+bash
 python main.py
+
+
+
+
+
+## We use 3-SAT random instances from SATLIB, particularly near the phase transition region.
