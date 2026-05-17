@@ -45,3 +45,8 @@ SAT-GNN/
 ├── main.py             # Inference (predict SAT/UNSAT)
 ├── requirements.txt
 └── README.md
+
+
+## Run
+```bash
+python main.py
